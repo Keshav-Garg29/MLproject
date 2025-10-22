@@ -233,7 +233,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "vc14_runtime",
   "sha256": "747f5d55439e327d3b035c0078be59991ffa5683542fbcecbcc6abcfff50588a",
   "size": 845189,
   "subdir": "win-64",

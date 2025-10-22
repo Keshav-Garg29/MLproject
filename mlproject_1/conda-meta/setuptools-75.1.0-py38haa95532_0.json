@@ -7499,7 +7499,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "setuptools",
   "sha256": "69542b2eca282518e8d504205be249a1bdd5e032d217a0958b588bbd3eb3d3a0",
   "size": 1654657,
   "subdir": "win-64",

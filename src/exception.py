@@ -1,5 +1,5 @@
 import sys #sys has exc_info() function that gives us detailed information about errors (exceptions) when they happen.
-
+from src.logger import logging
 def error_message_detail(error,error_detail:sys):  #This function creates a detailed error message. error: The actual error message (e.g., "File not found"). error_detail: The sys module (to access error details)
     _,_,exc_tb =  error_detail.exc_info() #Gets information about the error that just happened
     #error_detail.exc_info()` returns 3 things:

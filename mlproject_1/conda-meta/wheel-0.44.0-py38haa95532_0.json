@@ -539,7 +539,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "wheel",
   "sha256": "0228cad684cb4aff0e367cbbf5749daac4989a6c7f1f515578634219931543b7",
   "size": 140124,
   "subdir": "win-64",

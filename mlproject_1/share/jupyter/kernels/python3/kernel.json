@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "d:/COURSES/CODING/Python_AI_ML_coding_course/My_Codes/Python_Data_Science_with_ML/ML_project/mlproject_1\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

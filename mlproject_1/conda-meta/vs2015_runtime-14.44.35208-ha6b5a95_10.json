@@ -26,7 +26,7 @@
     "paths": [],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "vs2015_runtime",
   "sha256": "fa731e65f9c6b7b9559cb93653d067658594f39d2bc5c75cae85ac2385d79d06",
   "size": 19526,
   "subdir": "win-64",
